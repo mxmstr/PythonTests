@@ -1,0 +1,22 @@
+{
+  "user_id": "123",
+  "email": "jsmith@serenity.io",
+  "name": "John Smith",
+  "phone": "555671243",
+  "signed_up_at": 1392731331,
+  "last_seen_ip" : "1.2.3.4",
+  "last_seen_user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9",
+  "custom_attributes": {
+    "paid_subscriber" : true,
+    "monthly_spend": 155.5,
+    "team_mates": 9,
+    "last_order_at":1475569818
+  },
+  "companies": [
+    {
+      "company_id" : "366",
+      "name" : "Serenity",
+      "monthly_spend" : 500
+    }
+  ]
+}
